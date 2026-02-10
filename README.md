@@ -583,7 +583,7 @@ Use **GitHub Copilot** as your LLM provider — access models like `gpt-4.1`, `c
 **Prerequisites**
 
 1. An active [GitHub Copilot](https://github.com/features/copilot) subscription
-2. GitHub Copilot CLI installed and authenticated:
+2. GitHub Copilot CLI installed and authenticated [GitHub Copilot CLI](https://github.com/github/copilot-cli):
 
 ```bash
 # Verify installation
